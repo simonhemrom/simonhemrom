@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://app.netlify.com/sites/simonhemrom/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/c5682fdc-d176-439a-9723-45b5e5e04f49/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
+![demo](https://raw.githubusercontent.com/simons-devtools/simonhemrom/main/public/icons/demo.png)
 
 - 👋 Hi, I’m @simonsinfo
 - 👀 I’m interested in ...
